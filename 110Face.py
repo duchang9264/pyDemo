@@ -124,4 +124,3 @@ a="%.03f"%1.3355
 print(a, type(a))
 b = round(float(a), 2)
 print(b)
-kjkkjkj
